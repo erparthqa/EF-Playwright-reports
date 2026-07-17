@@ -1,0 +1,14 @@
+{
+  "runNumber": "5",
+  "result": "FAILED",
+  "total": 61,
+  "passed": 51,
+  "failed": 4,
+  "flaky": 6,
+  "skipped": 0,
+  "passRate": 93.44,
+  "duration": "40m 9s",
+  "startedAt": "2026-07-17T08:57:00.266Z",
+  "finishedAt": "2026-07-17T09:37:09.580Z",
+  "reportUrl": "https://erparthqa.github.io/EF-Playwright-reports/run-5/"
+}
